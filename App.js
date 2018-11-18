@@ -5,6 +5,7 @@ import { UtilityThemeProvider, Box, Text } from 'react-native-design-utility';
 import Navigation from './src/screens';
 import { images } from './src/constants/images';
 import { cacheImages } from './src/utils/cacheImage';
+import { theme } from './src/constants/theme';
 
 export default class App extends React.Component {
   state = {
@@ -35,7 +36,7 @@ export default class App extends React.Component {
     }
 
     return (
-      <UtilityThemeProvider>
+      <UtilityThemeProvider theme={theme}>
         <Navigation />
       </UtilityThemeProvider>
     );

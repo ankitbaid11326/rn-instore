@@ -41,7 +41,10 @@ const color = {
   green: '#4caf50',
   greenLight: '#66bb6a',
   greenLighter: '#81c784',
-  greenLightest: '#a5d6a7'
+  greenLightest: '#a5d6a7',
+
+  googleColor: '#fc525b',
+  facebookColor: '#3B5998'
 };
 
 const theme = {
