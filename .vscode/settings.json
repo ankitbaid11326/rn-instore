@@ -1,0 +1,19 @@
+{
+  "window.zoomLevel": 1,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.fontWeight": "600",
+  "editor.fontFamily": "Monaco, 'Courier New', monospace",
+  "workbench.colorTheme": "Monokai",
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.parser": "flow",
+  "prettier.semi": true,
+  "prettier.useTabs": false,
+  "editor.formatOnSave": true,
+  "emmet.triggerExpansionOnTab": true
+}
