@@ -39,7 +39,7 @@ const LoginButton = ({ children, type, onPress }) => {
           </Box>
         </Box>
         <Box>
-          <Text size="md" color="white">
+          <Text size={16} color="white">
             {children}
           </Text>
         </Box>

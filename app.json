@@ -22,6 +22,13 @@
       "supportsTablet": true
     },
     "facebookAppId": "359685751452401",
-    "facebookScheme": "fb359685751452401"
+    "facebookScheme": "fb359685751452401",
+    "facebookDisplayName": "InStore",
+    "extra": {
+      "googleAppId": {
+        "ios": "891645207122-5emhsbcrgov3gg8cm9sdppvbs0s399e1.apps.googleusercontent.com",
+        "android": "891645207122-75se6gfsep4n3udvqpohqn4m8t3s7iu0.apps.googleusercontent.com"
+      }
+    }
   }
 }
